@@ -26,7 +26,7 @@ h4 {
 	margin-bottom: 20px;
 	font-size: 16px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: #1976D2;
 }
 p{
 	font-size: 14px;
@@ -114,7 +114,7 @@ a:focus{
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover,
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
-	color: #2F937B;
+	color: #1976D2;
 	background-color: transparent;
 }
 
@@ -137,7 +137,7 @@ a:focus{
 	margin-bottom: 20px;
 	font-size: 16px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: #1976D2;
 }
 
 #tf-portfolio{
@@ -159,7 +159,7 @@ a.btn {
 }
 button.btn.btn-primary.my-btn,
 a.btn.btn-primary.my-btn {
-	background: #2F937B;
+	background: #0D47A1;
 	border-color: transparent;
 	border-radius: 20px;
 	border-width: 2px;
@@ -172,18 +172,18 @@ a.btn.btn-primary.my-btn {
 button.btn.btn-primary.my-btn:hover,
 a.btn.btn-primary.my-btn:hover{
 	background: #FFFFFF;
-	color: #2F937B;
+	color: #0D47A1;
 	border-color: transparent;
 }
 button.btn.btn-primary.my-btn.dark:hover,
 a.btn.btn-primary.my-btn.dark:hover{
-	background: #222222;
-	color: #ffffff;
+	background: #FFFFFF;
+	color: #0D47A1;
 	border-color: transparent;
 }
 a.btn.btn-primary.my-btn2 {
 	background: rgba(47, 147, 123, 0);
-	border-color: #FFFFFF;
+	border-color: #0D47A1;
 	border-radius: 20px;
 	border-width: 2px;
 	padding: 10px 30px;
@@ -195,7 +195,7 @@ a.btn.btn-primary.my-btn2 {
 }
 
 a.btn.btn-primary.my-btn2:hover{
-	background: #2F937B;
+	background: #0D47A1;
 	color: #ffffff;
 	border-color: transparent;
 }
@@ -293,7 +293,7 @@ form#contact {
 }
 #tf-contact .form-control:focus,
 #tf-contact .form-control:hover{
-	border-top: 2px solid #2F937B;
+	border-top: 2px solid #0D47A1;
 }
 nav#tf-footer {
 	background: #222222;
